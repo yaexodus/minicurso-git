@@ -9,6 +9,9 @@
 #git commit -m "Mensagem"
 #git status
 #Alteração em alguma linda do arquivo.py
+#git add arquivo.py para adicionar as alterações
+#git commit -m "Mensagem"
+#git checkout -b <nome-da-branch> já cria a branch e faz o checkout
 
 a = 1
 b = 2
